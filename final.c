@@ -1,5 +1,4 @@
 //Nikos Konstantagkas 1874
-//Filipos Ntaskas 1309
 
 #include <stdio.h>
 #include <stdlib.h>
