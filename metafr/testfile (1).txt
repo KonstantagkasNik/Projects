@@ -1,0 +1,4 @@
+program test
+{
+	declare i,j,k,l enddeclare
+}
